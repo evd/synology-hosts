@@ -32,6 +32,7 @@ curl_setopt_array($curl, array(
 ));
 $response = curl_exec($curl);
 
+//TODO Better check for torrent file
 if (strlen($response) > 1000) {
     echo 'Success' . PHP_EOL;
 } else {
