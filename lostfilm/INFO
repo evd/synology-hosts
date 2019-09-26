@@ -1,0 +1,10 @@
+{
+    "authentication": "yes",
+    "class": "SynoFileHostingLostfilm",
+    "description": "Download torrents from LostFilm RSS",
+    "displayname": "LostFilm",
+    "hostprefix": "retre.org,tracktor.in,tracktor.site",
+    "module": "lostfilm.php",
+    "name": "lostfilm",
+    "version": "1.0.1"
+}
