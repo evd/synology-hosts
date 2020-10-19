@@ -6,7 +6,7 @@
 ### Build
 Run build.sh script
 
-### Test
+### Debug
 1. Copy env.example.php to env.php
 2. Setup credentials in env.php
 3. Run php test.php
